@@ -1,0 +1,9 @@
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-google
+livekit-plugins-openai[vertex]
+livekit-plugins-silero
+livekit-plugins-cartesia
+livekit-plugins-rag
+python-dotenv
+aiofile
